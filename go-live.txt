@@ -1,0 +1,1052 @@
+<HTML>
+<HEAD>
+<STYLE type="text/css">.text {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt} .textbold {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight:bold} .textrt {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-align:right} .textctr {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; text-align:center} .textboldrt {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight:bold; text-align:right} .textboldctr {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 8pt; font-weight:bold text-align:center} .tinytext {font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 7pt; color: #888888}</STYLE></HEAD>
+<BODY>
+<table id="__tab" border="0" cellspacing="0" bgcolor="#FFFFFF"  cellpadding="2" width="100%">
+<thead>
+<tr class='uir-list-headerrow noprint' >
+<td height='100%' id="div__lab1" nowrap class="textbold uir-list-header-td" data-label='Project'>Project</td><td height='100%' id="div__lab2" nowrap class="textbold uir-list-header-td" data-label='Website'>Website</td><td height='100%' id="div__lab3" nowrap class="textboldrt uir-list-header-td uir-list-header-align-rt" data-label='Project Number'>Project Number</td><td height='100%' id="div__lab4" nowrap class="textbold uir-list-header-td" data-label='Reseller'>Reseller</td><td height='100%' id="div__lab5" nowrap class="textbold uir-list-header-td" data-label='Builder'>Builder</td><td height='100%' id="div__lab6" nowrap class="textbold uir-list-header-td" data-label='Location'>Location</td><td height='100%' id="div__lab7" nowrap class="textbold uir-list-header-td" data-label='Sales Rep'>Sales Rep</td><td height='100%' id="div__lab8" nowrap class="textbold uir-list-header-td" data-label='PM'>PM</td><td height='100%' id="div__lab9" nowrap class="textbold uir-list-header-td" data-label='CPM'>CPM</td><td height='100%' id="div__lab10" nowrap class="textbold uir-list-header-td" data-label='PPC Analyst'>PPC Analyst</td><td height='100%' id="div__lab11" nowrap class="textbold uir-list-header-td" data-label='SEO Analyst'>SEO Analyst</td><td height='100%' id="div__lab12" nowrap class="textbold uir-list-header-td" data-label='Type'>Type</td><td height='100%' id="div__lab13" nowrap class="textbold uir-list-header-td" data-label='Platform'>Platform</td><td id='div__scrollbarSpacer' class='textbold uir-list-header-td' style='width:0px; padding:0px;'></td>
+</tr>
+</thead>
+<tr class='uir-list-row-tr uir-list-row-even'  id='row0'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2303573">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">19,963</td>
+<td valign=top class="text uir-list-row-cell" style="">0565 Aarons Self Storage : 1545 Aarons Self Storage</td>
+<td valign=top class="text uir-list-row-cell" style="">Kolby Kirk</td>
+<td valign=top class="text uir-list-row-cell" style="">0006 Aarons Self Storage 6</td>
+<td valign=top class="text uir-list-row-cell" style="">Daniel West</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Client Services</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Anna Swope</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location - Custom</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row1'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2344670">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,764</td>
+<td valign=top class="text uir-list-row-cell" style="">0778 Keepers Self Storage : 1779 Keepers Self Storage</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+<td valign=top class="text uir-list-row-cell" style="">0001 Keepers Self Storage Manhattan</td>
+<td valign=top class="text uir-list-row-cell" style="">Daniel West</td>
+<td valign=top class="text uir-list-row-cell" style="">Alicia Skreen</td>
+<td valign=top class="text uir-list-row-cell" style="">Lorie Brown</td>
+<td valign=top class="text uir-list-row-cell" style="">Danielle Dunham</td>
+<td valign=top class="text uir-list-row-cell" style="">Anna Swope</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location - Custom</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row2'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328891">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,071</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0104 Avana Brazos Ranch</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row3'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328895">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,075</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0110 Avana McCormick Ranch</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row4'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328906">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,086</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0146 Flats at West Broad Village</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row5'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328925">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,105</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0141 Sunridge Pines</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row6'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328884">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,064</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0102 Avana 522</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row7'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328880">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,060</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0099 Alvista Terrace</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row8'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328874">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,054</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0092 15Fifty5 Apartment</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row9'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328923">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,103</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0145 Seville</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row10'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328911">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,091</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0128 Jefferson Inigos Crossing</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row11'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328877">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,057</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0096 Alvista Long Beach</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row12'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328881">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,061</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0100 Alvista Towngate</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row13'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328882">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,062</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0136 Ascot Park</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row14'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328888">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,068</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0119 Avana at South Shore</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row15'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328894">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,074</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0109 Avana La Jolla</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row16'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328900">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,080</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0116 Avana San Clemente</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row17'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328904">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,084</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0122 Crystal View</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row18'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328910">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,090</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0127 Jefferson Hills</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row19'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328915">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,095</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0131 Laurel Green</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row20'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328920">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,100</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0135 Preserve at Forest Creek</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row21'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328921">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,101</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0138 Rockledge</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row22'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328928">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,108</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0144 Treetops</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row23'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328896">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,076</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0111 Avana McKinney Ranch</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row24'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328899">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,079</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0114 Avana on Seven</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row25'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328901">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,081</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0117 Avana Skyway</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row26'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328908">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,088</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0125 Jasper Place</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row27'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328917">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,097</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0133 Mill at Mill Creek</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row28'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328919">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,099</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0137 Park Heights</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row29'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328887">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,067</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0108 Avana at Highland Ridge</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row30'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328893">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,073</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0106 Avana Cypress Estates</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row31'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328897">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,077</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0112 Avana North Hollywood</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row32'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328903">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,083</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0120 Avana Stonebriar</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row33'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328873">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,053</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0091 1001 Ross</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row34'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328883">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,063</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0101 Avana 3131</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row35'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328886">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,066</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0107 Avana at El Dorado</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row36'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328890">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,070</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0121 Avana at Western Center</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row37'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328902">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,082</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0118 Avana Southgate</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row38'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328913">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,093</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0126 Jefferson Perimeter</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row39'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328918">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,098</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0134 Olive Ridge Resort</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row40'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328922">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,102</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0139 Roosevelt Lofts Apartment</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row41'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328878">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,058</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0097 Alvista on Baltimore</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row42'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328879">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,059</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0098 Alvista Portofino</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row43'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328889">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,069</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0115 Avana at the Rim</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row44'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328892">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,072</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0105 Avana Canyon Crest</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row45'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328907">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,087</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0124 Grand Adams</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row46'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328912">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,092</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0129 Jefferson Lakeside</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row47'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328914">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,094</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0093 Laguna Bay Apartments</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row48'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328916">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,096</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0132 Laurel Heights</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row49'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328926">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,106</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0142 The Exchange Lofts</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row50'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328924">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,104</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0140 Star Ranch</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row51'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328927">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,107</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0143 The Warwick</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row52'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328875">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,055</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0094 Alvista Canyons</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row53'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328876">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,056</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0095 Alvista Highline</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row54'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328885">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,065</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0103 Avana Abington</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row55'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328898">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,078</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0113 Avana on Second</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row56'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328905">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,085</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0123 Estancia Riverside</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row57'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2328909">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">21,089</td>
+<td valign=top class="text uir-list-row-cell" style="">0717 LivCor : 1728 LivCor, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Brian Brannan</td>
+<td valign=top class="text uir-list-row-cell" style="">0130 Jefferson Creek</td>
+<td valign=top class="text uir-list-row-cell" style="">Bob Howard</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Bobbi Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Devon Decembre</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row58'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2288827">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">19,253</td>
+<td valign=top class="text uir-list-row-cell" style="">0383 Pacific Urban Residential : 1341 Pacific Urban Residential</td>
+<td valign=top class="text uir-list-row-cell" style="">Tyler Hasenoehrl</td>
+<td valign=top class="text uir-list-row-cell" style="">0060 Sofi at Lake Oswego</td>
+<td valign=top class="text uir-list-row-cell" style="">Justin Goodkind</td>
+<td valign=top class="text uir-list-row-cell" style="">Dawn Nason</td>
+<td valign=top class="text uir-list-row-cell" style="">Ben Steward</td>
+<td valign=top class="text uir-list-row-cell" style="">Chad Clason</td>
+<td valign=top class="text uir-list-row-cell" style="">Logan Brown</td>
+<td valign=top class="text uir-list-row-cell" style="">Core to Cloud Migration</td>
+<td valign=top class="text uir-list-row-cell" style="">Core</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-odd'  id='row59'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2225556">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">16,771</td>
+<td valign=top class="text uir-list-row-cell" style="">0710 Shamrock Communities, LLC : 1705 Shamrock Communities, LLC</td>
+<td valign=top class="text uir-list-row-cell" style="">Kolby Kirk</td>
+<td valign=top class="text uir-list-row-cell" style="">0006 Cottages of Fall Creek</td>
+<td valign=top class="text uir-list-row-cell" style="">Jeff McHugh</td>
+<td valign=top class="text uir-list-row-cell" style="">Dana Wolff</td>
+<td valign=top class="text uir-list-row-cell" style="">Peter Swindells</td>
+<td valign=top class="text uir-list-row-cell" style="">Tony Griego</td>
+<td valign=top class="text uir-list-row-cell" style="">Anna Swope</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location - Custom</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+<tr class='uir-list-row-tr uir-list-row-even'  id='row60'>
+<td valign=top class="text uir-list-row-cell" style=""><a href="https://system.netsuite.com/app/accounting/project/project.nl?id=2287345">View Project</a></td>
+<td valign=top class="text uir-list-row-cell" style="">--</td>
+<td valign=top class="textrt uir-list-row-cell" style="">19,133</td>
+<td valign=top class="text uir-list-row-cell" style="">0530 Store House Self Storage : 1505 Store House Self Storage</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+<td valign=top class="text uir-list-row-cell" style="">0002 Store House Boat/RV</td>
+<td valign=top class="text uir-list-row-cell" style="">Ryan Barnhart</td>
+<td valign=top class="text uir-list-row-cell" style="">Dawn Nason</td>
+<td valign=top class="text uir-list-row-cell" style="">Client Services</td>
+<td valign=top class="text uir-list-row-cell" style="">Jennie Macpherson</td>
+<td valign=top class="text uir-list-row-cell" style="">Kyle Krahenbuhl</td>
+<td valign=top class="text uir-list-row-cell" style="">Add Location</td>
+<td valign=top class="text uir-list-row-cell" style="">&nbsp;</td>
+</tr>
+
+
+</table>
+</BODY>
+</HTML>
+
+
